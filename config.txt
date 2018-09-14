@@ -1,0 +1,6 @@
+token=NDkwMTYyMzM0NDMwMzk2NDY2.Dn1S9w.w_ROek5emnmW9NcXK7xhaJ-0VRg
+owner=485380710656507914
+prefix=2
+game=NIGHT Bots!
+stayinchannel=true
+songinstatus=true
